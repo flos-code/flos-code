@@ -9,7 +9,7 @@
 
 - 👀 Check out my projects at [https://scholz-florian.com/](https://scholz-florian.com/)
 
-- 📫 Contact me at **f.scholz.dev@outlook.com**
+- 📫 Contact me at **contact@scholz-florian.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
