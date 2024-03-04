@@ -15,7 +15,7 @@
 
 - 👷🏼 I’m currently working on a **Chat-Messenger Application**<br><br>
 - 👨‍💻 I’m currently learning **Angular**<br><br>
-- 🔮 Future plans: adding **React** to my tech stack
+- 🔮 Future plans: adding **React** to my tech stack<br><br> 
 - 📫 Contact me at **contact@scholz-florian.com**<br><br>
 - 👀 Check out my projects at **[https://scholz-florian.com/](https://scholz-florian.com/)**
 
