@@ -59,13 +59,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/florian-scholz-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="36" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://scholz-florian.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&label=&color=00bc8f&logoColor=white&labelColor=&style=flat" height="36" alt="Portfolio" />
+  </a>&nbsp;
   <a href="https://codepen.io/flos-code" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="36" alt="CodePen" />
+  </a>&nbsp;
   <a href="https://dev.to/floscode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="36" alt="Dev.to" />
   </a>
 </div>
 
