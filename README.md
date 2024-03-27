@@ -6,7 +6,7 @@
 
 
 
-<img align="right" height="160" src="https://github.com/flos-code/flos-code/assets/148456982/d2a6000c-ce33-4505-a369-234c900d21f8"  />
+<img align="right" width="160" height="160" src="https://github.com/flos-code/flos-code/assets/148456982/d2a6000c-ce33-4505-a369-234c900d21f8"  />
 
 
 
