@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Florian here, frontend dev from Stuttgart, Germany.</h2>
+<h2 align="left">Hi 👋! Florian here, frontend dev from Germany.</h2>
 
 ###
 
